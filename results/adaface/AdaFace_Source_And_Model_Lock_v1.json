@@ -1,0 +1,11 @@
+{
+  "adaface_repository": "mk-minchul/AdaFace",
+  "commit": "c60eaa786a42c03444f3df7096dbaf9d57ae010d",
+  "net_py_url": "https://raw.githubusercontent.com/mk-minchul/AdaFace/c60eaa786a42c03444f3df7096dbaf9d57ae010d/net.py",
+  "net_py_sha256": "b4db4eb0174a385fd29e5f616391b50d443f455990c8b88dcab1f8021af8ba4c",
+  "safe_state_dict_sha256": "17bb2e4679be9552458a860a967585a27876c4dee0a146299a50909095db90a2",
+  "safe_state_dict_bytes": 174654913,
+  "state_dict_keys": 467,
+  "architecture": "ir_50",
+  "scientific_contract_change": false
+}

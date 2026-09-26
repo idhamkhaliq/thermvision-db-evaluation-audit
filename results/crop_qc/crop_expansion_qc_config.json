@@ -1,0 +1,48 @@
+{
+  "protocol_version": "1.0",
+  "master_seed": 20260920,
+  "candidate_factors": [
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4
+  ],
+  "decision_rule": "Choose the smallest fixed factor that visually passes all reviewed cases. No recognition/embedding performance may be used.",
+  "crop_geometry": {
+    "center": "validated bbox center",
+    "square_side_pixels": "ceil(max(bbox_width_px, bbox_height_px) * expansion_factor)",
+    "integer_origin": "floor(center - side/2)",
+    "out_of_frame_policy": "pad to square",
+    "padding_value": "per-frame median RGB pixel value",
+    "visualization_resize_only": [
+      220,
+      220
+    ],
+    "paper1_encoder_resize_after_lock": [
+      112,
+      112
+    ]
+  },
+  "case_design": {
+    "stress_cases": 26,
+    "stress_source": "one representative per finalized bbox visual-QC group; both F31 multi-detection frames retained",
+    "clean_controls": 4,
+    "clean_control_design": "sex x sequence reference cases",
+    "total_cases": 30
+  },
+  "prohibited_during_selection": [
+    "ArcFace embeddings",
+    "recognition accuracy",
+    "Rank-1",
+    "EER",
+    "cosine similarity",
+    "identity retrieval",
+    "performance-driven factor tuning"
+  ],
+  "raw_cache": {
+    "male_sha256": "24d59ed6b1559904089d9e0589c88e7b4945fe50d31ebf108a594f4fccb67318",
+    "female_sha256": "45eccef45dffebd20ed422feb7be86caf6666c0a2dceadd47b28d72a0cddaeea"
+  },
+  "generated_utc": "2026-09-20T17:12:05.886519+00:00"
+}

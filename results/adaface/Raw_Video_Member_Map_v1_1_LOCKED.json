@@ -1,0 +1,708 @@
+{
+  "created_utc": "2026-09-21T15:28:13.209964+00:00",
+  "namespace_map_sha256": "b240e92abd97cead7dc7f31c563fada8ef86b321eee9f808eb94056d3048e207",
+  "male_zip_sha256": "24d59ed6b1559904089d9e0589c88e7b4945fe50d31ebf108a594f4fccb67318",
+  "female_zip_sha256": "45eccef45dffebd20ed422feb7be86caf6666c0a2dceadd47b28d72a0cddaeea",
+  "resolved_members": {
+    "F_01_S1": {
+      "adapter_video_id": "F_01_S1",
+      "canonical_video_id": "F_01_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-1/Thermal Animations/subject11.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_01_S2": {
+      "adapter_video_id": "F_01_S2",
+      "canonical_video_id": "F_01_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-1/Thermal Animations/Subject11.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_02_S1": {
+      "adapter_video_id": "F_02_S1",
+      "canonical_video_id": "F_02_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-2/Thermal Animations/subject21.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_02_S2": {
+      "adapter_video_id": "F_02_S2",
+      "canonical_video_id": "F_02_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-2/Thermal Animations/Subject21.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_03_S1": {
+      "adapter_video_id": "F_03_S1",
+      "canonical_video_id": "F_03_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-3/Thermal Animations/subject31.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_03_S2": {
+      "adapter_video_id": "F_03_S2",
+      "canonical_video_id": "F_03_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-3/Thermal Animations/Subject31-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_04_S1": {
+      "adapter_video_id": "F_04_S1",
+      "canonical_video_id": "F_04_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-4/Thermal Animations/Subject41.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_04_S2": {
+      "adapter_video_id": "F_04_S2",
+      "canonical_video_id": "F_04_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-4/Thermal Animations/Subject41.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_08_S1": {
+      "adapter_video_id": "F_08_S1",
+      "canonical_video_id": "F_08_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-8/Thermal Animations/Subject81.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_08_S2": {
+      "adapter_video_id": "F_08_S2",
+      "canonical_video_id": "F_08_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-8/Thermal Animations/Subject81-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_09_S1": {
+      "adapter_video_id": "F_09_S1",
+      "canonical_video_id": "F_09_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-9/Thermal Animations/Subject91.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_09_S2": {
+      "adapter_video_id": "F_09_S2",
+      "canonical_video_id": "F_09_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-9/Thermal Animations/Subject91-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_10_S1": {
+      "adapter_video_id": "F_10_S1",
+      "canonical_video_id": "F_10_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-10/Thermal Animations/Subject101.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_10_S2": {
+      "adapter_video_id": "F_10_S2",
+      "canonical_video_id": "F_10_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-10/Thermal Animations/Subject101.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_13_S1": {
+      "adapter_video_id": "F_13_S1",
+      "canonical_video_id": "F_13_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-13/Thermal Animations/Subject131.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_13_S2": {
+      "adapter_video_id": "F_13_S2",
+      "canonical_video_id": "F_13_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-13/Thermal Animations/Subject131.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_14_S1": {
+      "adapter_video_id": "F_14_S1",
+      "canonical_video_id": "F_14_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-14/Thermal Animations/Subject141.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_14_S2": {
+      "adapter_video_id": "F_14_S2",
+      "canonical_video_id": "F_14_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-14/Thermal Animations/Subject141.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_16_S1": {
+      "adapter_video_id": "F_16_S1",
+      "canonical_video_id": "F_16_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-16/Thermal Animations/Subject161.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_16_S2": {
+      "adapter_video_id": "F_16_S2",
+      "canonical_video_id": "F_16_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-16/Thermal Animations/Subject161.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_17_S1": {
+      "adapter_video_id": "F_17_S1",
+      "canonical_video_id": "F_17_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-17/Thermal Animations/Subject171.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_17_S2": {
+      "adapter_video_id": "F_17_S2",
+      "canonical_video_id": "F_17_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-17/Thermal Animations/Subject171.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_18_S1": {
+      "adapter_video_id": "F_18_S1",
+      "canonical_video_id": "F_18_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-18/Thermal Animations/Subject181.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_18_S2": {
+      "adapter_video_id": "F_18_S2",
+      "canonical_video_id": "F_18_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-18/Thermal Animations/Subject181.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_19_S1": {
+      "adapter_video_id": "F_19_S1",
+      "canonical_video_id": "F_19_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-19/Thermal Animations/Subject191.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_19_S2": {
+      "adapter_video_id": "F_19_S2",
+      "canonical_video_id": "F_19_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-19/Thermal Animations/Subject191.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_20_S1": {
+      "adapter_video_id": "F_20_S1",
+      "canonical_video_id": "F_20_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-20/Thermal Animations/Subject201.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_20_S2": {
+      "adapter_video_id": "F_20_S2",
+      "canonical_video_id": "F_20_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-20/Thermal Animations/Subject201.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_21_S1": {
+      "adapter_video_id": "F_21_S1",
+      "canonical_video_id": "F_21_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-21/Thermal Animations/Subject211.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_21_S2": {
+      "adapter_video_id": "F_21_S2",
+      "canonical_video_id": "F_21_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-21/Thermal Animations/Subject211.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_22_S1": {
+      "adapter_video_id": "F_22_S1",
+      "canonical_video_id": "F_22_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-22/Thermal Animations/Subject221.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_22_S2": {
+      "adapter_video_id": "F_22_S2",
+      "canonical_video_id": "F_22_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-22/Thermal Animations/Subject221.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_23_S1": {
+      "adapter_video_id": "F_23_S1",
+      "canonical_video_id": "F_23_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-23/Thermal Animations/Subject231.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_23_S2": {
+      "adapter_video_id": "F_23_S2",
+      "canonical_video_id": "F_23_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-23-n/Thermal Animations/Subject231-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_24_S1": {
+      "adapter_video_id": "F_24_S1",
+      "canonical_video_id": "F_24_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-24/Thermal Animations/Subject241.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_24_S2": {
+      "adapter_video_id": "F_24_S2",
+      "canonical_video_id": "F_24_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-24/Thermal Animations/Subject241.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_25_S1": {
+      "adapter_video_id": "F_25_S1",
+      "canonical_video_id": "F_25_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-25/Thermal Animations/Subject251.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_25_S2": {
+      "adapter_video_id": "F_25_S2",
+      "canonical_video_id": "F_25_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-25/Thermal Animations/Subject251.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_26_S1": {
+      "adapter_video_id": "F_26_S1",
+      "canonical_video_id": "F_26_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-26/Thermal Animations/Subject261.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_26_S2": {
+      "adapter_video_id": "F_26_S2",
+      "canonical_video_id": "F_26_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-26/Thermal Animations/Subject261.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_27_S1": {
+      "adapter_video_id": "F_27_S1",
+      "canonical_video_id": "F_27_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-27/Thermal Animations/Subject271-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_27_S2": {
+      "adapter_video_id": "F_27_S2",
+      "canonical_video_id": "F_27_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-27/Thermal Animations/Subject271.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_28_S1": {
+      "adapter_video_id": "F_28_S1",
+      "canonical_video_id": "F_28_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-28/Thermal Animations/Subject281-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_28_S2": {
+      "adapter_video_id": "F_28_S2",
+      "canonical_video_id": "F_28_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-28/Thermal Animations/Subject281.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_29_S1": {
+      "adapter_video_id": "F_29_S1",
+      "canonical_video_id": "F_29_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-29/Thermal Animations/Subject291.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_29_S2": {
+      "adapter_video_id": "F_29_S2",
+      "canonical_video_id": "F_29_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-29/Thermal Animations/Subject291.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_30_S1": {
+      "adapter_video_id": "F_30_S1",
+      "canonical_video_id": "F_30_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-30/Thermal Animations/Subject301.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_30_S2": {
+      "adapter_video_id": "F_30_S2",
+      "canonical_video_id": "F_30_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-30/Thermal Animations/Subject301.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_31_S1": {
+      "adapter_video_id": "F_31_S1",
+      "canonical_video_id": "F_31_S1_HEADPOSE",
+      "sex": "F",
+      "member": "Female Subjects/Set 1 Cropped Headpose Variations/Subject-31/Thermal Animations/Subject311.mp4",
+      "resolution_rule": "exact"
+    },
+    "F_31_S2": {
+      "adapter_video_id": "F_31_S2",
+      "canonical_video_id": "F_31_S2_FACIAL_EXPRESSION",
+      "sex": "F",
+      "member": "Female Subjects/Set 2 Cropped Facial Expressions/Subject-31/Thermal Animations/Subject311.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_01_S1": {
+      "adapter_video_id": "M_01_S1",
+      "canonical_video_id": "M_01_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-1/Face Animations/Subject11.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_01_S2": {
+      "adapter_video_id": "M_01_S2",
+      "canonical_video_id": "M_01_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-1/Thermal Animations/Subject11.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_02_S1": {
+      "adapter_video_id": "M_02_S1",
+      "canonical_video_id": "M_02_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-2/Face Animations/Subject21.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_02_S2": {
+      "adapter_video_id": "M_02_S2",
+      "canonical_video_id": "M_02_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-2/Thermal Animations/Subject21.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_03_S1": {
+      "adapter_video_id": "M_03_S1",
+      "canonical_video_id": "M_03_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-3/Face Animations/Subject31.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_03_S2": {
+      "adapter_video_id": "M_03_S2",
+      "canonical_video_id": "M_03_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-3/Thermal Animations/Subject31.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_04_S1": {
+      "adapter_video_id": "M_04_S1",
+      "canonical_video_id": "M_04_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-4/Face Animations/Subject41.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_04_S2": {
+      "adapter_video_id": "M_04_S2",
+      "canonical_video_id": "M_04_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-4/Thermal Animations/Subject41.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_05_S1": {
+      "adapter_video_id": "M_05_S1",
+      "canonical_video_id": "M_05_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-5/Face Animations/Subject51.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_05_S2": {
+      "adapter_video_id": "M_05_S2",
+      "canonical_video_id": "M_05_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-5/Thermal Animations/Subject51.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_07_S1": {
+      "adapter_video_id": "M_07_S1",
+      "canonical_video_id": "M_07_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-7/Face Animations/Subject71.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_07_S2": {
+      "adapter_video_id": "M_07_S2",
+      "canonical_video_id": "M_07_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-7/Thermal Animations/Subject71.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_08_S1": {
+      "adapter_video_id": "M_08_S1",
+      "canonical_video_id": "M_08_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-8/Face Animations/Subject81.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_08_S2": {
+      "adapter_video_id": "M_08_S2",
+      "canonical_video_id": "M_08_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-8/Thermal Animations/Subject81.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_09_S1": {
+      "adapter_video_id": "M_09_S1",
+      "canonical_video_id": "M_09_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-9/Face Animations/Subject91.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_09_S2": {
+      "adapter_video_id": "M_09_S2",
+      "canonical_video_id": "M_09_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-9/Thermal Animations/Subject91.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_10_S1": {
+      "adapter_video_id": "M_10_S1",
+      "canonical_video_id": "M_10_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-10/Face Animations/Subject101.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_10_S2": {
+      "adapter_video_id": "M_10_S2",
+      "canonical_video_id": "M_10_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-10/Thermal Animations/Subject101-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_11_S1": {
+      "adapter_video_id": "M_11_S1",
+      "canonical_video_id": "M_11_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-11/Face Animations/Subject111.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_11_S2": {
+      "adapter_video_id": "M_11_S2",
+      "canonical_video_id": "M_11_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-11/Thermal Animations/Subject111.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_12_S1": {
+      "adapter_video_id": "M_12_S1",
+      "canonical_video_id": "M_12_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-12/Face Animations/Subject121.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_12_S2": {
+      "adapter_video_id": "M_12_S2",
+      "canonical_video_id": "M_12_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-12/Thermal Animations/Subject121.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_14_S1": {
+      "adapter_video_id": "M_14_S1",
+      "canonical_video_id": "M_14_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-14/Face Animations/Subject141.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_14_S2": {
+      "adapter_video_id": "M_14_S2",
+      "canonical_video_id": "M_14_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-14/Thermal Animations/Subject141.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_15_S1": {
+      "adapter_video_id": "M_15_S1",
+      "canonical_video_id": "M_15_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-15/Face Animations/Subject151.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_15_S2": {
+      "adapter_video_id": "M_15_S2",
+      "canonical_video_id": "M_15_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-15/Thermal Animations/Subject151.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_16_S1": {
+      "adapter_video_id": "M_16_S1",
+      "canonical_video_id": "M_16_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-16/Face Animations/Subject161.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_16_S2": {
+      "adapter_video_id": "M_16_S2",
+      "canonical_video_id": "M_16_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-16/Thermal Animations/Subject161.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_17_S1": {
+      "adapter_video_id": "M_17_S1",
+      "canonical_video_id": "M_17_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-17/Face Animations/Subject171.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_17_S2": {
+      "adapter_video_id": "M_17_S2",
+      "canonical_video_id": "M_17_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-17/Thermal Animations/Subject171.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_19_S1": {
+      "adapter_video_id": "M_19_S1",
+      "canonical_video_id": "M_19_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-19/Face Animations/Subject191.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_19_S2": {
+      "adapter_video_id": "M_19_S2",
+      "canonical_video_id": "M_19_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-19/Thermal Animations/Subject191.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_20_S1": {
+      "adapter_video_id": "M_20_S1",
+      "canonical_video_id": "M_20_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-20/Face Animations/Subject201.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_20_S2": {
+      "adapter_video_id": "M_20_S2",
+      "canonical_video_id": "M_20_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-20/Thermal Animations/Subject201.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_21_S1": {
+      "adapter_video_id": "M_21_S1",
+      "canonical_video_id": "M_21_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-21/Face Animations/Subject211.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_21_S2": {
+      "adapter_video_id": "M_21_S2",
+      "canonical_video_id": "M_21_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-21/Thermal Animations/Subject211.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_24_S1": {
+      "adapter_video_id": "M_24_S1",
+      "canonical_video_id": "M_24_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-24/Face Animations/Subject241.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_24_S2": {
+      "adapter_video_id": "M_24_S2",
+      "canonical_video_id": "M_24_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-24/Thermal Animations/Subject241.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_25_S1": {
+      "adapter_video_id": "M_25_S1",
+      "canonical_video_id": "M_25_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-25/Face Animations/Subject251.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_25_S2": {
+      "adapter_video_id": "M_25_S2",
+      "canonical_video_id": "M_25_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-25/Thermal Animations/Subject251.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_26_S1": {
+      "adapter_video_id": "M_26_S1",
+      "canonical_video_id": "M_26_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-26/Face Animations/Subject261.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_26_S2": {
+      "adapter_video_id": "M_26_S2",
+      "canonical_video_id": "M_26_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-26/Thermal Animations/Subject261.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_27_S1": {
+      "adapter_video_id": "M_27_S1",
+      "canonical_video_id": "M_27_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-27/Face Animations/Subject271.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_27_S2": {
+      "adapter_video_id": "M_27_S2",
+      "canonical_video_id": "M_27_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-27/Thermal Animations/Subject271.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_28_S1": {
+      "adapter_video_id": "M_28_S1",
+      "canonical_video_id": "M_28_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-28/Face Animations/Subject281.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_28_S2": {
+      "adapter_video_id": "M_28_S2",
+      "canonical_video_id": "M_28_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-28/Thermal Animations/Subject281.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_30_S1": {
+      "adapter_video_id": "M_30_S1",
+      "canonical_video_id": "M_30_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-30/Face Animations/Subject301.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_30_S2": {
+      "adapter_video_id": "M_30_S2",
+      "canonical_video_id": "M_30_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-30/Thermal Animations/Subject301-n.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_31_S1": {
+      "adapter_video_id": "M_31_S1",
+      "canonical_video_id": "M_31_S1_HEADPOSE",
+      "sex": "M",
+      "member": "Male Subjects/Set 1 Cropped  Headpose Variations/Subject-31/Face Animations/Subject311.mp4",
+      "resolution_rule": "exact"
+    },
+    "M_31_S2": {
+      "adapter_video_id": "M_31_S2",
+      "canonical_video_id": "M_31_S2_FACIAL_EXPRESSION",
+      "sex": "M",
+      "member": "Male Subjects/Set 2 Cropped Facial Expressions/Subject-31/Thermal Animations/Subject311.mp4",
+      "resolution_rule": "exact"
+    }
+  }
+}

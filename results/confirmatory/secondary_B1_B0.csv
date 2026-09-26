@@ -1,0 +1,4 @@
+comparison,estimate,p_raw,test,discordant_b,discordant_c
+B1 - B0 margin,-0.011532088507309673,0.02777972220277797,paired identity sign-flip,,
+B1 vs B0 Rank-1 forward,0.020000000000000018,1.0,exact McNemar,1.0,0.0
+B1 vs B0 Rank-1 reverse,0.020000000000000018,1.0,exact McNemar,1.0,0.0

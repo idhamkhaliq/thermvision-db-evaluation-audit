@@ -1,0 +1,77 @@
+[
+  {
+    "path": "Paper1_Confirmatory_Analysis_Adapter_v1_1_LOCKED.json",
+    "size_bytes": 904354,
+    "sha256": "c64f81cd5dd80444b421af23a23a99366b851af29fe8fc4fda67b06dec3eb796"
+  },
+  {
+    "path": "Paper1_Confirmatory_Analysis_Adapter_v1_1_LOCKED.sha256.txt",
+    "size_bytes": 120,
+    "sha256": "a6569f1973f459c56157115cb561ccc8da41b9e93bf5c741f27e33d0ab41bde7"
+  },
+  {
+    "path": "figures/identity_geometry.png",
+    "size_bytes": 50904,
+    "sha256": "245d846d6752f2dced504d5c3615ec501981031801e8eb83615bea6de58bfac9"
+  },
+  {
+    "path": "figures/temporal_sensitivity.png",
+    "size_bytes": 123610,
+    "sha256": "9a8c34035e8902c628460b25beb46404ce0f5ee81e8926108beeaeafba462252"
+  },
+  {
+    "path": "results/C2_draw_results.csv",
+    "size_bytes": 1354,
+    "sha256": "9afe9d9ff9e4ff2d3b462841fcf188b33a5fb187e00f6108c08ee3189f4751c8"
+  },
+  {
+    "path": "results/C3_sensitivity.csv",
+    "size_bytes": 425,
+    "sha256": "ede47496e30e08b20a27cabcd00d5928e00f855431b71bdb55c048942360b888"
+  },
+  {
+    "path": "results/bootstrap_ci_required.csv",
+    "size_bytes": 876,
+    "sha256": "0240e413db183e746ed25210efad7c1bbdedf1f554f9f45bdd8e8758fc6169a3"
+  },
+  {
+    "path": "results/condition_summary.csv",
+    "size_bytes": 1096,
+    "sha256": "c577cda0fa976f832d93dbde500a532bc4b9fafd8e262a497861e6c2f143aeef"
+  },
+  {
+    "path": "results/identity_geometry_by_identity.csv",
+    "size_bytes": 5173,
+    "sha256": "f5ee6388f9b0f140c8c71065cfb6fd621c2c0623fb872c41343b56f1f9ee4c72"
+  },
+  {
+    "path": "results/identity_geometry_summary.csv",
+    "size_bytes": 200,
+    "sha256": "745e42105852c25f7d699f89881da70625ebeccb602ebb2dd252ede2f9f2d3aa"
+  },
+  {
+    "path": "results/identity_level_outcomes.csv",
+    "size_bytes": 20721,
+    "sha256": "fe49462a57fc488f895fbdd221cc1fbe6480757d8eab248259aa923a201adb0a"
+  },
+  {
+    "path": "results/primary_B_null_summary.csv",
+    "size_bytes": 273,
+    "sha256": "c09dc5683fe2c0e53b8691363bdbcf9797be194bafab0eea90be720733cf3847"
+  },
+  {
+    "path": "results/primary_hypotheses.csv",
+    "size_bytes": 465,
+    "sha256": "2052a233c3734af77fa16f9c54478d11ac85fe1c3bb092b0d8263f1a6c52303c"
+  },
+  {
+    "path": "results/secondary_B1_B0.csv",
+    "size_bytes": 284,
+    "sha256": "409178efc0b2a4b247ea8238b90bef237cbc2624c56891773fffc09cc2b0e570"
+  },
+  {
+    "path": "results/secondary_margin_holm.csv",
+    "size_bytes": 621,
+    "sha256": "d1947f29f4f9890abc57d37b18469a928a7be71ac0295d5d56dc779d959cf62a"
+  }
+]

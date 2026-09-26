@@ -1,0 +1,38 @@
+{
+  "experiment_id": "P1-E-ADAFACE-IR50-MS1MV2-KEY-CONTRASTS-v1",
+  "status": "completed",
+  "created_utc": "2026-09-21T15:30:02.039964+00:00",
+  "role": "DEFENSIVE secondary-encoder robustness",
+  "encoder": {
+    "method": "AdaFace",
+    "architecture": "IR-50",
+    "training_dataset": "MS1MV2",
+    "safe_state_dict_sha256": "17bb2e4679be9552458a860a967585a27876c4dee0a146299a50909095db90a2",
+    "official_checkpoint_sha256": "234da6ce931f821e0a8e920063dc2091d8122ea46285c159d2f25d3f762fecb3",
+    "source_commit": "c60eaa786a42c03444f3df7096dbaf9d57ae010d",
+    "net_py_sha256": "b4db4eb0174a385fd29e5f616391b50d443f455990c8b88dcab1f8021af8ba4c"
+  },
+  "frozen_inputs": {
+    "selection_adapter_sha256": "c64f81cd5dd80444b421af23a23a99366b851af29fe8fc4fda67b06dec3eb796",
+    "frame_plan_sha256": "455b3925c9bee83faba1b58d668985679c9289cf19dcd7e661d4f966d0718d00",
+    "canonical_manifest_sha256": "04dfceccff2adff2ed3a40ea9cd1096d57e03c11e8f05bdbbd69121c81bd9eaf",
+    "bbox_geometry_sha256": "ef03d96eec0d6e0110d22a2a7d361839901e0b8f7501e1b6207c5085be7cf6d6",
+    "male_archive_sha256": "24d59ed6b1559904089d9e0589c88e7b4945fe50d31ebf108a594f4fccb67318",
+    "female_archive_sha256": "45eccef45dffebd20ed422feb7be86caf6666c0a2dceadd47b28d72a0cddaeea",
+    "video_id_namespace_map_sha256": "b240e92abd97cead7dc7f31c563fada8ef86b321eee9f808eb94056d3048e207",
+    "frame_request_sha256": "671dd748b9b80924b491d0c1ce2550642dc3e3abe7b29fd63c2e044fef7b2952",
+    "embedding_cache_index_sha256": "e5d70a6a7515b2f1a7e388b26f302dc6b02b05750f77d07c8f7e4fd7f189820c"
+  },
+  "completed_key_contrasts": [
+    "A0_vs_A1",
+    "B0_vs_B2",
+    "C0_vs_C1"
+  ],
+  "full_factorial_run": false,
+  "additional_encoder_run": false,
+  "new_hypothesis_test_added": false,
+  "bootstrap_replicates": 10000,
+  "inferential_unit": "identity",
+  "scientific_contract_change": false,
+  "stopping_rule_reached_after_this_run": true
+}

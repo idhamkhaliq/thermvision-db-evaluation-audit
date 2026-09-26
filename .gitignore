@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+*.onnx
+*.pt
+*.pth
+*.ckpt
+raw_data/
+dataset/
+data/ThermVision-DB/

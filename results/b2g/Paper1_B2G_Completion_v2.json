@@ -1,0 +1,39 @@
+{
+  "created_utc": "2026-09-21T12:36:27.470374+00:00",
+  "experiment": "Paper1 B2-G Defensive Completion v2",
+  "status": "completed",
+  "scientific_contract_change": false,
+  "recognition_outcomes_used": false,
+  "recognition_metric_run": false,
+  "geometry_definition": {
+    "coordinates": "YOLO normalized",
+    "features": [
+      "xc",
+      "yc",
+      "w",
+      "h",
+      "area=w*h"
+    ],
+    "per_video_summary": [
+      "mean",
+      "population_sd_ddof0"
+    ]
+  },
+  "frozen_sources": {
+    "canonical_manifest_sha256": "04dfceccff2adff2ed3a40ea9cd1096d57e03c11e8f05bdbbd69121c81bd9eaf",
+    "bbox_patch_sha256": "b63a2b480bf18059ed83741150b7ce560c1d07f9acb84623d0e23b42e65ebafe",
+    "visual_qc_sha256": "fe043ad0b2405a1323f5d6464065ce31d3b28eb5400d4a046e59d44982aa4f4d",
+    "annotation_candidates_sha256": "5edad9a3064b7aed4e53c357cdac7819f84d72ed45224f7a300688551ae74fb6",
+    "annotation_source_container": "/content/gdrive_p1/MyDrive/Paper3/ThermVision_DB_Audit_v1/annotation_candidates.csv",
+    "annotation_source_member": null
+  },
+  "counts": {
+    "canonical_videos": 100,
+    "identities": 50,
+    "frames": 30200,
+    "raw_single_label_frames": 30121,
+    "final_patch_frames": 79,
+    "missing_bbox_patched": 77,
+    "multi_detection_resolved": 2
+  }
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite the associated manuscript and this repository release."
+title: "ThermVision-DB Evaluation Audit - Paper 1 Reproducibility Repository"
+type: software
+version: 0.1.0
+date-released: 2026-09-24
+authors:
+  - family-names: Khaliq
+    given-names: Idham
+    orcid: "https://orcid.org/0009-0004-5214-5583"
+  - family-names: Uturestantix
+    given-names: ""
+    orcid: "https://orcid.org/0000-0001-8321-8731"
+repository-code: "https://github.com/idhamkhaliq/thermvision-db-evaluation-audit"
+preferred-citation:
+  type: article
+  title: "Protocol Sensitivity in Synthetic Thermal Video Face Recognition: An Evaluation Audit of ThermVision-DB"
+  authors:
+    - family-names: Khaliq
+      given-names: Idham
+    - family-names: Uturestantix
+      given-names: ""
+  year: 2026

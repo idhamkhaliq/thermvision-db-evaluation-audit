@@ -1,0 +1,2 @@
+hypothesis,contrast,observed_identity_balanced_rank1,rank1_forward,rank1_reverse,null_mean,null_ci_low,null_ci_high,p_value_upper_tail,replicates
+B,B2 background-only retrieval vs gallery-label permutation null,0.96,0.96,0.96,0.0200514,0.0,0.05,9.99990000099999e-06,100000

@@ -1,0 +1,78 @@
+{
+  "package_version": "2.0",
+  "date": "2026-09-22",
+  "scientific_contract_version": "1.0",
+  "manifest_excludes_itself": true,
+  "files": [
+    {
+      "path": "Paper1_Baseline_File_Registry_v2_0.json",
+      "size_bytes": 31349,
+      "sha256": "f9cbdbf3ec8649f7e44b9b3cbb0e5829fc9bab4f67d2c586bc4aec888a2a92ca"
+    },
+    {
+      "path": "Paper1_Handoff_Checkpoint_v2_0_MVA_WRITING_LOCKED.json",
+      "size_bytes": 44254,
+      "sha256": "501dc75995be2467e816d323b0b628584beaaafbdd23e27fc80057c3867c5670"
+    },
+    {
+      "path": "Paper1_Handoff_Checkpoint_v2_0_MVA_WRITING_LOCKED.md",
+      "size_bytes": 52097,
+      "sha256": "3e8ff7f35a19bceb4a83b6364c888e191de11e39086331866e40bafa7dd03233"
+    },
+    {
+      "path": "Paper1_Handoff_Quality_Check_v2_0.json",
+      "size_bytes": 806,
+      "sha256": "2d964d6e01a09e094e759e797150bb613376be98f114fd904025df0427c3277a"
+    },
+    {
+      "path": "Paper1_Handoff_Source_Verification_v2_0.json",
+      "size_bytes": 16136,
+      "sha256": "dd01b53945272fa8e8a6b325dca0d5dcf80ee057d320ac7f33c861990e0b103d"
+    },
+    {
+      "path": "Paper1_Resume_Command_MVA_v2_0.txt",
+      "size_bytes": 1489,
+      "sha256": "6e2077d573b55f61674e9e63f188c1996ad7f3297a7d079ac3282d7501fc0770"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2004,
+      "sha256": "9af899dd27e2e7208b7483444c1db97218604b02c21f101ab89d1f40a6ac71b3"
+    },
+    {
+      "path": "sources/Continue Paper Execution.txt",
+      "size_bytes": 13076,
+      "sha256": "39b48160bd045353848a151da94bac38ca8790f7ffc090c8e98003988ee76829"
+    },
+    {
+      "path": "sources/Paper1_Final_Evidence_Synthesis_v1.md",
+      "size_bytes": 31591,
+      "sha256": "27e1bd906656fa8cd5798314057b7663d0b2c198be7fe59f61712c146c6b57ce"
+    },
+    {
+      "path": "sources/Paper1_Final_Evidence_Synthesis_v1.zip",
+      "size_bytes": 1496961,
+      "sha256": "62ad1ef58f776ff00bd3b740c7ef4adba4ea1e0d2699e25c3e7cf5e4a6c5d585"
+    },
+    {
+      "path": "sources/Paper1_Handoff_Checkpoint_v1_0_LOCKED.md",
+      "size_bytes": 19487,
+      "sha256": "7693c38f874962e4b3e9f695f86b769857720527b6588dfd294c5c3fda625860"
+    },
+    {
+      "path": "sources/Scopus_P1_Literature_Matrix.csv",
+      "size_bytes": 35530,
+      "sha256": "b6861dfbaf9119e1b646886273305e0e830a816e71f2b76153695898fae8a675"
+    },
+    {
+      "path": "sources/Scopus_P1_Review.md",
+      "size_bytes": 27847,
+      "sha256": "0f3509c5e1ea30539cb9d1b5349432d84fffa2247eadc95a14b719c05346f552"
+    },
+    {
+      "path": "verify_handoff.py",
+      "size_bytes": 1466,
+      "sha256": "a0673c49f28716a6c9579da68bac4ff312e923ceb1675c07b2a01d6d3bdf9f9b"
+    }
+  ]
+}

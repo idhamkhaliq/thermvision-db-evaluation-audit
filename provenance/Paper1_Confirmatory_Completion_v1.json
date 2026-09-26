@@ -1,0 +1,47 @@
+{
+  "experiment": "Paper1 Confirmatory Analysis v1.0 \u2014 executed with notebook adapter technical patch v1.1",
+  "status": "completed",
+  "created_utc": "2026-09-21T10:48:11.835583+00:00",
+  "source_integrity_report_sha256": "c3082bf4281392354cbbd0869514e8b2e299d8d806ffa4945124b7b1572d1f67",
+  "embedding_index_sha256": "fa17cebb55b696e4b257af98d258716bb69b9a234a0eed71c75f149f68e94d74",
+  "frame_plan_sha256": "455b3925c9bee83faba1b58d668985679c9289cf19dcd7e661d4f966d0718d00",
+  "analysis_adapter_sha256": "c64f81cd5dd80444b421af23a23a99366b851af29fe8fc4fda67b06dec3eb796",
+  "arcface_checkpoint_sha256": "4c06341c33c2ca1f86781dab0e829f88ad5b64be9fba56e56bc9ebdefc619e43",
+  "bootstrap_replicates": 10000,
+  "permutation_replicates": 100000,
+  "inferential_unit": "identity",
+  "primary_hypotheses": {
+    "A": {
+      "estimate": 0.047010422420377826,
+      "p_two_sided": 9.99990000099999e-06
+    },
+    "B": {
+      "observed_rank1": 0.96,
+      "p_upper_tail": 9.99990000099999e-06
+    },
+    "C": {
+      "estimate": -0.05577069068982664,
+      "p_two_sided": 9.99990000099999e-06
+    }
+  },
+  "required_completed": [
+    "A0",
+    "A1",
+    "B0",
+    "B1",
+    "B2",
+    "C0",
+    "C1",
+    "D_identity_geometry"
+  ],
+  "defensive_completed": [
+    "A2",
+    "C2",
+    "C3_B8",
+    "C3_B32",
+    "B2G_geometry_cache_not_unique"
+  ],
+  "adaface_robustness_E_run": false,
+  "methodology_changed_after_outcomes": false,
+  "adapter_technical_patch": "v1.1 structural frame-plan matching; no scientific contract change"
+}

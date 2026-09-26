@@ -1,0 +1,17 @@
+[
+  {
+    "path": "Paper1_B2G_Completion_v2.json",
+    "size_bytes": 1281,
+    "sha256": "93f7d55757ac4a7c05f86eef05bab2350f1ce17dbd868d7aa46cab03e1061d9a"
+  },
+  {
+    "path": "results/B2G_frame_geometry_30200.csv",
+    "size_bytes": 3025197,
+    "sha256": "ef03d96eec0d6e0110d22a2a7d361839901e0b8f7501e1b6207c5085be7cf6d6"
+  },
+  {
+    "path": "results/B2G_video_geometry_mean_std_100.csv",
+    "size_bytes": 21952,
+    "sha256": "2f63c2dec0dbbcb86921df32b78a89abe3f0278d104f8511ddeaed2c8337ca93"
+  }
+]

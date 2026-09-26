@@ -1,0 +1,4 @@
+audit,contrast,effect_metric,estimate,ci95_low,ci95_high,inferential_unit,bootstrap_replicates,p_value,note
+A,A1 - A0,paired identity-level margin difference,0.06299980669609685,0.05088740709671307,0.08289194143300355,identity,10000,,Defensive secondary-encoder robustness; no new hypothesis test added.
+B,B2 - B0,paired identity-level margin difference,-0.10462901513052461,-0.1276720440131183,-0.08199514177284667,identity,10000,,Defensive secondary-encoder robustness; no new hypothesis test added.
+C,C1 - C0,paired identity-level margin difference,-0.09178354579711635,-0.12334157653626894,-0.06114947769601089,identity,10000,,Defensive secondary-encoder robustness; no new hypothesis test added.

@@ -1,0 +1,4 @@
+hypothesis,contrast,effect,estimate,p_value_two_sided,replicates,unit,p_value_upper_tail
+A,A1 - A0,mean paired identity-level margin difference,0.047010422420377826,9.99990000099999e-06,100000,identity,
+C,C1 - C0,mean paired identity-level margin difference,-0.05577069068982664,9.99990000099999e-06,100000,identity,
+B,B2 background retrieval vs label permutation null,identity-balanced Rank-1,0.96,,100000,identity / gallery-label permutation,9.99990000099999e-06

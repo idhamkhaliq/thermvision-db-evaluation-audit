@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-09-21T15:17:30.213517+00:00",
+  "experiment_id": "P1-E-ADAFACE-IR50-MS1MV2-KEY-CONTRASTS-v1",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu128",
+  "cuda_runtime": "12.8",
+  "cudnn": 91900,
+  "gpu": "Tesla T4",
+  "gpu_total_memory": 15637086208,
+  "local_free_bytes_preflight": 202166710272,
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "opencv": "5.0.0",
+  "sklearn": "1.6.1",
+  "scipy": "1.16.3"
+}
