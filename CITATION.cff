@@ -3,6 +3,8 @@ message: "If you use these reproducibility materials, please cite the associated
 title: "ThermVision-DB Evaluation Audit - Paper 1 Reproducibility Repository"
 type: software
 version: 0.1.0
+doi: "10.5281/zenodo.22974338"
+date-released: 2026-09-26
 license: MIT
 authors:
   - family-names: Khaliq
