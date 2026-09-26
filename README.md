@@ -2,6 +2,8 @@
 
 Reproducibility and result-verification materials for:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22974338.svg)](https://doi.org/10.5281/zenodo.22974338)
+
 > **Protocol Sensitivity in Synthetic Thermal Video Face Recognition: An Evaluation Audit of ThermVision-DB**
 
 **Authors:** Idham Khaliq, Uturestantix
@@ -86,6 +88,10 @@ Expected key checks include:
 ## Interpretation boundary
 
 This repository does not establish validity on real thermal sensors, human populations, or independent acquisition sessions. The empirical conclusions are bounded to the finite ThermVision-DB benchmark and the frozen probes/evaluation constructions reported in the manuscript.
+
+## Archived release
+
+GitHub release `v0.1.0` is archived in Zenodo: **10.5281/zenodo.22974338** (https://doi.org/10.5281/zenodo.22974338).
 
 ## License
 
