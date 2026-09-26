@@ -89,4 +89,6 @@ This repository does not establish validity on real thermal sensors, human popul
 
 ## License
 
-A code license has **not yet been assigned** to this repository. ThermVision-DB licensing is governed separately by the upstream dataset repository. Do not infer that the dataset license applies to repository code or derived verification materials.
+Project-controlled software in this repository is released under the **MIT License**. See [`LICENSE`](LICENSE) and [`LICENSE_SCOPE.md`](LICENSE_SCOPE.md).
+
+ThermVision-DB raw media are not redistributed here and remain governed by the upstream dataset terms. Third-party model weights and software retain their respective licenses.
