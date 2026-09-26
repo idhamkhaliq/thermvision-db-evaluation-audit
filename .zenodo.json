@@ -1,0 +1,41 @@
+{
+  "creators": [
+    {
+      "name": "Khaliq, Idham",
+      "orcid": "0009-0004-5214-5583",
+      "affiliation": "Master's Program in Informatics, Faculty of Industrial Technology, Universitas Ahmad Dahlan, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Uturestantix",
+      "orcid": "0000-0001-8321-8731",
+      "affiliation": "Department of Management, Faculty of Economics and Business, Universitas Cenderawasih, Jayapura, Indonesia"
+    }
+  ],
+  "title": "ThermVision-DB Evaluation Audit - Paper 1 Reproducibility Repository",
+  "description": "Reproducibility and frozen result-verification materials for the manuscript 'Protocol Sensitivity in Synthetic Thermal Video Face Recognition: An Evaluation Audit of ThermVision-DB'. The repository contains verification scripts, provenance records, and derived result exports; it excludes raw ThermVision-DB media and pretrained model weights.",
+  "version": "0.1.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.57967/hf/7026",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.1016/j.dib.2026.112506",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ],
+  "keywords": [
+    "thermal face recognition",
+    "synthetic thermal video",
+    "evaluation protocol",
+    "face recognition",
+    "reproducibility",
+    "ThermVision-DB"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}
