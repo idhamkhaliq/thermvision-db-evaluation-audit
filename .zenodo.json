@@ -11,7 +11,7 @@
       "affiliation": "Department of Management, Faculty of Economics and Business, Universitas Cenderawasih, Jayapura, Indonesia"
     }
   ],
-  "title": "ThermVision-DB Evaluation Audit - Paper 1 Reproducibility Repository",
+  "title": "ThermVision-DB Evaluation Audit: Reproducibility Repository",
   "description": "Reproducibility and frozen result-verification materials for the manuscript 'Protocol Sensitivity in Synthetic Thermal Video Face Recognition: An Evaluation Audit of ThermVision-DB'. The repository contains verification scripts, provenance records, and derived result exports; it excludes raw ThermVision-DB media and pretrained model weights.",
   "version": "0.1.0",
   "access_right": "open",
