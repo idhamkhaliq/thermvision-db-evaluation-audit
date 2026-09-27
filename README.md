@@ -1,4 +1,4 @@
-# ThermVision-DB Evaluation Audit - Paper 1 Reproducibility Repository
+# ThermVision-DB Evaluation Audit: Reproducibility Repository
 
 Reproducibility and result-verification materials for:
 
