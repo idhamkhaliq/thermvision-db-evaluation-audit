@@ -53,10 +53,10 @@ See [`DATA_ACCESS.md`](DATA_ACCESS.md).
 │   ├── verify_repository.py
 │   └── verify_reported_results.py
 ├── provenance/
-│   ├── Paper1_Baseline_File_Registry_v2_0.json
-│   ├── Paper1_Handoff_Checkpoint_v2_0_MVA_WRITING_LOCKED.md
-│   ├── Paper1_Handoff_v2_0_SHA256_Manifest.json
-│   └── ... frozen confirmatory adapter/manifest files
+│   ├── baseline and execution-provenance records
+│   ├── analysis checkpoint/provenance notes
+│   ├── SHA256 provenance manifests
+│   └── archived confirmatory adapter/manifest files
 ├── results/
 │   ├── confirmatory/
 │   ├── adaface/
